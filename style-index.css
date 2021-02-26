@@ -1,0 +1,61 @@
+html,
+body {
+    height: 100%;
+    min-height: 100%;
+    position: relative;
+    padding: 0;
+    overflow: auto;
+}
+
+#desc-text {
+    font-size: 1.2rem;
+}
+
+#container {
+    height: 100%;
+    min-height: 100%;
+    padding-left: 10%;
+    padding-right: 10%
+}
+
+#title {
+    padding-bottom: 5%;
+}
+
+#main-container {
+    height: 78%;
+    margin-top: 100px;
+}
+
+#finalResult {
+    margin-top: 2%;
+}
+
+.btn {
+    width: fit-content;
+    padding-left: 15%;
+    padding-right: 15%;
+    margin-bottom: 40%;
+}
+
+.row {
+    position: relative;
+    justify-content: center;
+    text-align: center;
+
+}
+
+#btn-container {
+    padding-top: 3%;
+    text-align: center;
+}
+
+.container-fluid {
+    height: 100%;
+}
+
+footer {
+    width: 100%;
+    bottom: 0%;
+  
+}
